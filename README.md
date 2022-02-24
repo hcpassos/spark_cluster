@@ -1,2 +1,7 @@
-# spark_cluster
-Little spark cluster with a master node and some worker nodes. Just for study and labs.
+<h1>Docker Spark Cluster
+
+<h4>Little Spark cluster using docker compose:  
+    
+    * Change the volumes to your local directories
+    * Set how many workers you want
+    * Set the resources from Pyspark
